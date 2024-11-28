@@ -1,21 +1,17 @@
-{
+*{
     margin: 0;
     padding: 0;
-
 }
 
-/*este es el css del nav*/
-.menu{
-    background-color: aliceblue;
-    height: 5vh;
+.header{
+    height: 10vh;
     display: flex;
-    justify-content: space-around;
-    font-weight: 700;
+    justify-content: space-around
     align-items: center;
-
+    font-weight: 700;
+    
 }
 
-/*este es el fin del nav*/
 a{
     text-decoration: none;
     color: black;
